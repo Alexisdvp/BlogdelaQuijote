@@ -26,3 +26,8 @@ text-align: center;
 align-content: center;
 
 }
+JazzLETPlain-1.0
+@font-face {
+	font-family: "JazzLet";
+	src: url('JazzLETPlain-1.0.ttf');
+}
